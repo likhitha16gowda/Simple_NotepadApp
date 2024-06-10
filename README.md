@@ -10,6 +10,6 @@ Save File: Save the current text file.
 Cut, Copy, Paste: Basic text editing functionalities.
 Scroll Bar: Easily navigate through the text.
 
-Acknowledgements
+Acknowledgements:- 
 Developed by Likhitha Mahadev.
 Inspired by the classic Notepad application.
